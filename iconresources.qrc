@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/icons ">
+        <file>icons/check.png</file>
+        <file>icons/check-mark.png</file>
+        <file>icons/dashboard.png</file>
+        <file>icons/employee.png</file>
+        <file>icons/employee01.png</file>
+        <file>icons/employees.png</file>
+        <file>icons/exam.png</file>
+        <file>icons/fee.png</file>
+        <file>icons/presentation.png</file>
+        <file>icons/receipt.png</file>
+        <file>icons/salary.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/student.png</file>
+        <file>icons/student-card.png</file>
+        <file>icons/schoolLOGO.png</file>
+        <file>icons/calculator.png</file>
+        <file>icons/fee (1).png</file>
+        <file>icons/teacher.png</file>
+    </qresource>
+</RCC>
